@@ -8,10 +8,16 @@ most essential aspects of their submitted material or projects. Unfortunately, t
 
 **STEPS TO EXECUTE**
 1.] Download Dataset Zip file name as Tag Recommendation
+
 2.] Download all .ipynb or .py files
+
 3.] Upload the Dataset on google drive
+
 4.] Open files all .ipynb/.py files in google colab
+
 5.] mount dataset
+
 6.] Exceute all files to obtain results
+
 
 
